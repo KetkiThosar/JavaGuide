@@ -8,8 +8,8 @@
         {
             " dataDir " : " " ,
             " repository " : {
-                " uid " : " ad48cd9aaca50d84dc899011894162b3 " ,
-                " projectName " : " JavaGuide " ,
+                " uid " : "ad48cd9aaca50d84dc899011894162b3" ,
+                " projectName " : "JavaGuide" ,
                 " languages " : [
                     " JAVA "
                 ],
